@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝐍𝐄𝐙𝐔𝐊𝐎-𝐁𝐎𝐓+𝐕3.5;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1500+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2023;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝐍𝐄𝐙𝐔𝐊𝐎-𝐁𝐎𝐓+𝐕3.5;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1500+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2023;𝕮.𝕵𝖍𝖔𝖓𝖆𝖙𝖆𝖓✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Autor-@Daniel-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Autor-@Jhonatan-orange.svg?style=for-the-badge&logo=github"></a>
 <img title="Versão" src="https://img.shields.io/badge/Versão-3.5.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
@@ -31,7 +31,7 @@ cd /sdcard/
 ```
 **4° Comando**
 ```
-git clone https://github.com/Scheyot2/nezuko-botv3.git
+https://github.com/C-Jhonatan/nezuko-botv3.5.git
 ```
 **5° Comando**
 ```
