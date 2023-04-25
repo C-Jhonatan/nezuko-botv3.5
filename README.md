@@ -11,10 +11,10 @@
 
 <p align="center">
 <img title="Autor" src="https://img.shields.io/badge/Autor-@Jhonatan-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="Versão" src="https://img.shields.io/badge/Versão-3.5.0-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Versión" src="https://img.shields.io/badge/Versão-3.5-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-## Instalação via Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
+## Instalación en Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
 **1° Comando**
 ```
 pkg upgrade -y && pkg update -y && pkg install python -y && pkg install nodejs-lts -y && pkg install nodejs -y && pkg install git -y && pkg install ffmpeg -y && pkg install wget -y
@@ -35,15 +35,15 @@ https://github.com/C-Jhonatan/nezuko-botv3.5.git
 ```
 **5° Comando**
 ```
-cd /sdcard/nezuko-botv3
+cd /sdcard/nezuko-botv3.5
 ```
 
-## Iniciar o Bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
+## iniciar bot  <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 ```
 sh start.sh
 ```
 
-## Gerar um novo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
+## Generar un nuevo QR  <img src="https://user-images.githubusercontent.com/108157095/182053978-d1a08952-4625-4e3f-b469-c8ebe4f22ac8.png" height="25px">
 ```
 sh qrcode.sh
 ```
