@@ -52,5 +52,5 @@ sh qrcode.sh
 ```
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙+𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𝕮.𝕵𝖍𝖔𝖓𝖆𝖙𝖆𝖓✰✰✰✰✰">      
 
