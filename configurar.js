@@ -102,7 +102,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
-	console.log(chalk.redBright("Actualizando, configurar...", "green"))
+	console.log(chalk.redBright("Actualizando, configurar..."))
 	delete require.cache[file]
 	require(file)
 })
